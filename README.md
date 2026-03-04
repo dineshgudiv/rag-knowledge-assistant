@@ -1,4 +1,4 @@
-# RAG Knowledge Assistant
+﻿# RAG Knowledge Assistant
 ## Screenshots
 
 ### Upload + Demo
@@ -14,7 +14,7 @@
 ![Audit](docs/images/ui_audit.png
 
 ### Runtime proof (hard_check)
-![Proof](docs/images/proof_hard_check_pass.png
+![Proof](docs/images/proof_hard_check_pass.png)
 
 Spring Boot scaffold for a retrieval-augmented generation (RAG) assistant with ingestion, retrieval, chat, feedback, and evaluation endpoints.
 
