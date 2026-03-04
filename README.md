@@ -2,16 +2,16 @@
 ## Screenshots
 
 ### Upload + Demo
-![Upload](docs/images/ui_upload.png)
+![Upload](docs/images/ui_upload.png
 
 ### Ask (RAG) with citations
-![Ask](docs/images/ui_ask_with_citations.png)
+![Ask](docs/images/ui_ask_with_citations.png
 
 ### Documents
-![Documents](docs/images/ui_documents.png)
+![Documents](docs/images/ui_documents.png
 
 ### Audit trail
-![Audit](docs/images/ui_audit.png)
+![Audit](docs/images/ui_audit.png
 
 ### Runtime proof (hard_check)
 ![Proof](docs/images/proof_hard_check_pass.png
