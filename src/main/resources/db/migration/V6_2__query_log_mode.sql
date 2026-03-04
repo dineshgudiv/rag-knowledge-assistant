@@ -1,0 +1,1 @@
+ALTER TABLE query_logs ADD COLUMN mode VARCHAR(32);

@@ -1,0 +1,9 @@
+target/
+.git/
+.idea/
+.vscode/
+.tools/
+.data/
+*.log
+.mvn/wrapper/dists
+PROOF_*.txt

@@ -1,0 +1,5 @@
+ALTER TABLE eval_runs ADD COLUMN avg_faithfulness DOUBLE PRECISION DEFAULT 0;
+ALTER TABLE eval_runs ADD COLUMN avg_relevancy DOUBLE PRECISION DEFAULT 0;
+ALTER TABLE eval_runs ADD COLUMN avg_retrieval_ms INT DEFAULT 0;
+ALTER TABLE eval_runs ADD COLUMN avg_generation_ms INT DEFAULT 0;
+ALTER TABLE eval_runs ADD COLUMN avg_latency_ms INT DEFAULT 0;

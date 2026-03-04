@@ -1,0 +1,2 @@
+﻿RAG means retrieval augmented generation.
+This system returns citations in answers.
